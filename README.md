@@ -27,17 +27,11 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por tran
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pedro-H-Salvatore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-H-Salvatore&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
-</div>
+## 📊 Atividade no GitHub
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Pedro-H-Salvatore&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
@@ -45,23 +39,12 @@ Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por tran
 
 ## 🚀 Projetos em destaque
 
-<div align="center">
-  <a href="https://github.com/Pedro-H-Salvatore/bootcamp">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-H-Salvatore&repo=bootcamp&theme=tokyonight&hide_border=true" alt="Bootcamp" />
-  </a>
-  <a href="https://github.com/Pedro-H-Salvatore/Sistema_Sustentavel">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-H-Salvatore&repo=Sistema_Sustentavel&theme=tokyonight&hide_border=true" alt="Sistema Sustentável" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Pedro-H-Salvatore/first-panda-project">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-H-Salvatore&repo=first-panda-project&theme=tokyonight&hide_border=true" alt="First Panda Project" />
-  </a>
-  <a href="https://github.com/Pedro-H-Salvatore/meu-curriculo">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-H-Salvatore&repo=meu-curriculo&theme=tokyonight&hide_border=true" alt="Meu Currículo" />
-  </a>
-</div>
+| Projeto | Tecnologias |
+|:--|:--|
+| [**Bootcamp**](https://github.com/Pedro-H-Salvatore/bootcamp) — estudos e desafios de desenvolvimento | TypeScript · React · Tailwind CSS |
+| [**Sistema Sustentável**](https://github.com/Pedro-H-Salvatore/Sistema_Sustentavel) — solução voltada à sustentabilidade | Java |
+| [**First Panda Project**](https://github.com/Pedro-H-Salvatore/first-panda-project) — prática de análise de dados | Python · Pandas |
+| [**Meu Currículo**](https://github.com/Pedro-H-Salvatore/meu-curriculo) — currículo desenvolvido para a web | HTML · CSS |
 
 ## 📈 Atividade
 
