@@ -1,63 +1,27 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6E40C9,100:00BFFF&height=150&section=header&text=Pedro%20Salvatore&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+# Pedro Salvatore
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+Salvatore!+%F0%9F%91%8B;Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Transformando+ideias+em+c%C3%B3digo;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e procuro minha primeira oportunidade de estágio ou como desenvolvedor júnior em backend Java.
 
-## 👨‍💻 Sobre mim
+Tenho prática com Java e Spring Boot em operações de cadastro, consulta, atualização e exclusão de dados. Estou estudando Spring Security para entender melhor autenticação e controle de acesso. Também desenvolvo projetos com React e TypeScript.
 
-Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em projetos reais. Aqui você encontra minha evolução em desenvolvimento web, programação e soluções criativas.
+## Projetos
 
-- 🎓 Construindo uma base sólida em desenvolvimento de software
-- 🌱 Evoluindo em **TypeScript, React, Tailwind CSS, Python e Java**
-- 💡 Interesse em projetos web, automação e boas práticas de código
-- 🚀 Aberto a desafios, colaboração e novas oportunidades
+### [API RockySoulup](https://github.com/Pedro-H-Salvatore/API-RockySoulup)
 
-## 🛠️ Tecnologias e ferramentas
+Desenvolvi a API do projeto RockySoulup com Java e Spring Boot, incluindo operações de CRUD. É meu principal projeto para aprofundar a prática em backend.
 
-<div align="center">
+### [CineExplorer](https://github.com/Pedro-H-Salvatore/bootcamp)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Projeto individual feito com React, TypeScript, Tailwind CSS e Vite. Usa a API do TMDB para pesquisar filmes, consultar detalhes e organizar favoritos. A lista de favoritos fica no estado da aplicação e é apagada ao recarregar a página.
 
-</div>
+[Ver aplicação](https://cineexplorer-teal.vercel.app)
 
-## 📊 Atividade no GitHub
+## Outros estudos
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pedro-H-Salvatore&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-</div>
+- [Sistema Sustentável](https://github.com/Pedro-H-Salvatore/Sistema_Sustentavel): projeto acadêmico em Java com foco em orientação a objetos.
+- [Análise de dados com Pandas](https://github.com/Pedro-H-Salvatore/first-panda-project): prática de análise de dados em Python.
+- [Currículo web](https://github.com/Pedro-H-Salvatore/meu-curriculo): exercício com HTML e CSS.
 
-## 🚀 Projetos em destaque
+## Contato
 
-| Projeto | Tecnologias |
-|:--|:--|
-| [**Bootcamp**](https://github.com/Pedro-H-Salvatore/bootcamp) — estudos e desafios de desenvolvimento | TypeScript · React · Tailwind CSS |
-| [**Sistema Sustentável**](https://github.com/Pedro-H-Salvatore/Sistema_Sustentavel) — solução voltada à sustentabilidade | Java |
-| [**First Panda Project**](https://github.com/Pedro-H-Salvatore/first-panda-project) — prática de análise de dados | Python · Pandas |
-| [**Meu Currículo**](https://github.com/Pedro-H-Salvatore/meu-curriculo) — currículo desenvolvido para a web | HTML · CSS |
-
-## 📈 Atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedro-H-Salvatore&bg_color=0D1117&color=58A6FF&line=6E40C9&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pedro-H-Salvatore&color=6E40C9&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil" />
-  <br><br>
-  <strong>Obrigado pela visita! ⭐ Explore meus repositórios e acompanhe minha evolução.</strong>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6E40C9,100:00BFFF&height=120&section=footer" />
+[LinkedIn](https://www.linkedin.com/in/pedro-salvatore-a4a2763b7/)
